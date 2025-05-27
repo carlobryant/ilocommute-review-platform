@@ -1,0 +1,1 @@
+<img src="{{asset('storage/ilocommute2.png')}}" width="700em"/>
