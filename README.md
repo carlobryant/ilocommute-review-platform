@@ -1,3 +1,14 @@
+# IloCommute
+IloCommute is a Laravel Jetstream web application designed to collect and analyze reviews from commuters in Ilocos regarding their experiences with tricycle rides, based on tricycle identification numbers. The platform serves as a resource for identifying trustworthy drivers and highlighting those that may need to be avoided, promoting safer and more informed commuting decisions.
+![ilocommute](https://github.com/user-attachments/assets/b7eea5f7-7738-49bd-8dda-7e11bc3ef34d)
+
+## Technologies
+* HTML, CSS (Tailwind)
+* JavaScript (JQuery)
+* Laravel
+* Jetstream
+* Places API (Google Enterprise)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
