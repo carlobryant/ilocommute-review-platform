@@ -1,6 +1,6 @@
 # IloCommute: Ilocos Tricycle Review Platform
 IloCommute is a Laravel Jetstream web application designed to collect and analyze reviews from commuters in Ilocos regarding their experiences with tricycle rides, based on tricycle identification numbers. The platform serves as a resource for identifying trustworthy drivers and highlighting those that may need to be avoided, promoting safer and more informed commuting decisions.
-![ilocommute](https://github.com/user-attachments/assets/b7eea5f7-7738-49bd-8dda-7e11bc3ef34d)
+![ilocommute](https://github.com/user-attachments/assets/3d7f71b2-74f9-4e26-ac92-0cd70a9f9d42)
 
 ## Technologies
 * HTML, CSS (Tailwind)
